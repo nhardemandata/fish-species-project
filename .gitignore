@@ -47,3 +47,35 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Python
+--pycache__/
+*.pyc
+*.pyo
+*.ipynb_checkpoints
+*.env
+.env/
+
+# SQL / Database files
+*.sqlite
+*.db
+*.bak
+*.sql~
+
+# Data files
+/data/raw/*
+*.csv
+*.tsv
+*.xlsx
+
+# Tableau files
+*.twb~
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
