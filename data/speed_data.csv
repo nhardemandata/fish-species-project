@@ -1,0 +1,270 @@
+"autoctr","StockCode","SpecCode","SpeedRefNo","Length","LengthType","SpeedLS","LengthTypeSpeed","Speedms","Mode","DataRef","Reliable","Comment","Entered","DateEntered","Modified","DateModified","Expert","DateChecked","SLa","SLb","TS"
+71,32,24,308,25,"SL",6.97,"SL",1.7425,"burst",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+73,39,29,308,15,"SL",9.86,"SL",1.479,"burst",46348,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,3,2003-03-28,NA,NA,0,0.91,NA
+72,39,29,308,20,"SL",8.04,"SL",1.608,"burst",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.91,NA
+74,39,29,3499,17,NA,1.3,"TL",0.23,"sustained",3511,NA,"17.7 g, fish at 23 cm/sec.",22,1992-05-15,1,1994-09-28,NA,NA,0,0.91,NA
+75,40,30,3499,22,"TL",3.5,"TL",0.79,"sustained",3511,NA,"23.7 g, fish at 79 cm/sec.",22,1992-05-15,1,1994-09-28,NA,NA,0,0.89,NA
+76,54,44,3499,19,"TL",2.4,"TL",0.47,"sustained",3511,NA,"19.2 cm, fish at 47 cm/sec.",22,1992-05-15,NA,1994-09-28,NA,NA,NA,NA,NA
+77,79,69,2120,27,"BL",1.44,"BL",0.3888,"sustained",2620,NA,"Maximum sustained speed at 15°C given as 1.9 BL/s TL assumed.",1,1993-05-17,1,2000-09-20,NA,NA,0,0.928,NA
+78,79,69,2120,27,"BL",1.95,"BL",0.5265,"sustained",2620,NA,"Maximum sustained speed at 10°C given as 1.9 BL/s. TL assumed.",1,1993-05-17,1,2000-09-20,NA,NA,0,0.928,NA
+79,104,89,308,125,"SL",0.32,"SL",0.4,"sustained",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+81,104,89,308,89,"SL",13.3,"SL",11.837,"burst",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+80,104,89,308,97,"SL",12.4,"SL",12.028,"burst",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+82,104,89,308,110,"SL",19.3,"SL",21.23,"burst",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+83,104,89,4680,NA,NA,NA,NA,21.4,"burst",NA,NA,"Check Ref. 4687 for mode of swimming.",3,1992-09-02,NA,1994-09-28,NA,NA,NA,NA,NA
+84,107,93,308,31,"SL",2.19,"SL",0.6789,"sustained",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+85,110,96,308,36,"SL",2.11,"SL",0.7596,"sustained",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+86,110,96,308,40,"SL",10,"SL",4,"burst",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+87,110,96,308,40,"SL",12.5,"SL",5,"burst",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+89,121,107,308,38,"SL",1.55,"SL",0.589,"sustained",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+88,121,107,308,48,"SL",1.5,"SL",0.72,"sustained",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+90,121,107,308,39,"SL",2.15,"SL",0.8385,"sustained",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+91,121,107,308,79,"SL",8.05,"SL",6.3595,"burst",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+92,121,107,308,48,"SL",14.3,"SL",6.864,"burst",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+93,121,107,308,48,"SL",19.6,"SL",9.408,"burst",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+94,129,115,308,16,"SL",2.18,"SL",0.3488,"sustained",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+95,129,115,308,14,"SL",8.58,"SL",1.2012,"burst",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+96,131,117,308,34,"SL",2.7,"SL",0.918,"sustained",498,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.82,NA
+97,131,117,308,27,"SL",8.35,"SL",2.2545,"burst",3600,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,3,2003-03-28,NA,NA,0,0.82,NA
+98,132,118,308,32,"SL",0.87,"SL",0.2784,"sustained",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.84,NA
+99,132,118,308,30,"SL",3.27,"SL",0.981,"sustained",499,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.84,NA
+100,132,118,308,32,"SL",6.32,"SL",2.0224,"sustained",500,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.84,NA
+102,132,118,308,33,"SL",8.98,"SL",2.9634,"burst",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.84,NA
+101,132,118,308,38,"SL",7.99,"SL",3.0362,"burst",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.84,NA
+103,132,118,308,30,"SL",18,"SL",5.4,"burst",499,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.84,NA
+104,132,118,3499,25,"TL",3.2,"TL",0.81,"sustained",3511,NA,"25.2 g, fish at 81 cm/sec.",22,1992-05-15,1,1994-09-28,NA,NA,0,0.84,NA
+105,143,129,4680,NA,NA,NA,NA,20.8,"burst",NA,NA,"Check Ref. 4687 for mode of swimming.",3,1992-09-02,NA,1994-09-28,NA,NA,NA,NA,NA
+108,157,143,308,35,"SL",1.31,"SL",0.4585,"sustained",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+106,157,143,308,87,"SL",0.57,"SL",0.4959,"sustained",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+107,157,143,308,84,"SL",0.77,"SL",0.6468,"sustained",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+109,157,143,308,62,"SL",8.4,"SL",5.208,"burst",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+110,157,143,308,66,"SL",18.8,"SL",12.408,"burst",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+111,157,143,308,66,"SL",31,"SL",20.46,"burst",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+113,160,146,308,36,"SL",1.3,"SL",0.468,"sustained",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+112,160,146,308,55,"SL",1.09,"SL",0.5995,"sustained",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+114,161,147,308,250,"SL",0.88,"SL",2.2,"sustained",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+115,161,147,308,241,"SL",1.12,"SL",2.6992,"sustained",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+116,161,147,308,213,"SL",1.64,"SL",3.4932,"sustained",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+117,161,147,4680,NA,NA,NA,NA,1.5,"burst",NA,NA,"Recorded by tracking: translation of position over time (F.G. Ca",3,1992-09-02,3,2011-09-06,NA,NA,NA,NA,NA
+118,230,216,4680,NA,"FL",NA,NA,0.2,"other",4680,NA,"Swimming speed (15-25 cm/sec) within 10 m of the surface.",3,1992-09-02,NA,1994-09-28,NA,NA,NA,NA,NA
+119,230,216,4680,NA,"FL",NA,NA,1,"sustained",4680,NA,"Fastest sustained swimming speeds: 80-120 cm/sec.",3,1992-09-02,NA,1994-09-28,NA,NA,NA,NA,NA
+120,230,216,4680,NA,NA,NA,NA,1.7,"sustained",NA,NA,"Check Ref. 4683 for mode of swimming.",3,1992-09-02,NA,1994-09-28,NA,NA,NA,NA,NA
+121,230,216,4680,NA,NA,NA,NA,2.2,"sustained",NA,NA,"Check Ref. 4688 for mode of swimming.",3,1992-09-02,NA,1994-09-28,NA,NA,NA,NA,NA
+122,230,216,4680,NA,"FL",NA,NA,2.25,"sustained",4680,NA,NA,3,1992-09-02,NA,1994-09-28,NA,NA,NA,NA,NA
+123,230,216,4680,NA,NA,NA,NA,20.8,"burst",NA,NA,"Check Ref. 4686 for mode of swimming.",3,1992-09-02,NA,1994-09-28,NA,NA,NA,NA,NA
+124,231,217,4680,NA,NA,NA,NA,36.1,"burst",NA,NA,NA,3,1992-10-07,NA,1994-09-28,NA,NA,NA,NA,NA
+125,237,223,4680,NA,NA,999,NA,1.8,NA,NA,NA,"Check Ref. 4684 for mode of swimming.",3,1992-09-02,NA,1994-09-28,NA,NA,NA,NA,NA
+126,240,226,308,220,"SL",11.3,"SL",24.86,"burst",46357,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,3,2003-03-28,NA,NA,NA,NA,NA
+127,240,226,4680,NA,NA,NA,NA,2.25,"burst",NA,NA,"Data from F.G. Carey (unpublished).",3,1992-09-02,NA,1994-09-28,NA,NA,NA,NA,NA
+129,252,238,308,24,"SL",9.87,"SL",2.3688,"burst",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.9,NA
+128,252,238,308,38,"SL",8.58,"SL",3.2604,"burst",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.9,NA
+130,252,238,3499,34,"TL",2.7,"TL",0.92,"sustained",3511,NA,"34.1 g, fish at 92 cm/sec.",22,1992-05-15,1,1994-09-28,NA,NA,0,0.9,NA
+131,253,239,3499,4,"TL",18.25,"TL",0.73,"burst",NA,NA,"Maximum speed sustained for 3-4 sec. Data read from a graph.",1,1992-05-14,NA,1994-09-29,NA,NA,0,0.9,NA
+132,253,239,3499,13,"TL",16.92308,"TL",2.2,"burst",NA,NA,"Max. speed sustained for 3-4 sec. Same speed reached at 23.2 TL.",1,1992-05-14,2,1994-09-29,NA,NA,0,0.9,NA
+133,253,239,3499,29,"TL",11,"TL",3.19,"burst",NA,NA,"Maximum speed sustained for 3-4 sec. Data read from a graph.",1,1992-05-14,NA,1994-09-29,NA,NA,0,0.9,NA
+134,253,239,3518,10,"TL",3.2,"TL",0.32,"sustained",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.9,NA
+135,253,239,3518,15,"TL",2.66667,"TL",0.4,"sustained",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.9,NA
+136,253,239,3518,20,"TL",3,"TL",0.6,"sustained",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.9,NA
+137,253,239,3518,28,"TL",2.5,"TL",0.7,"sustained",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.9,NA
+138,253,239,3518,10,"TL",10.3,"TL",1.03,"burst",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.9,NA
+139,253,239,3518,15,"TL",11.66667,"TL",1.75,"burst",NA,NA,"The same speed also reached at 20 TL.",1,1992-05-15,2,1994-09-29,NA,NA,0,0.9,NA
+140,253,239,3518,64,"TL",3.3,"TL",2.112,"sustained",3519,NA,"Average for 10 specimens.",1,1992-05-15,1,2000-09-20,NA,NA,0,0.9,NA
+141,253,239,3518,28,"TL",12.5,"TL",3.5,"burst",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.9,NA
+142,253,239,3531,28,"TL",1.01,"TL",0.2828,"sustained",3531,NA,"Average of 5 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+143,253,239,3531,29,"TL",1.03,"TL",0.2987,"sustained",3531,NA,"Average of 5 fish. Same speed reached at 29.7 TL.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+144,253,239,3531,30,"TL",1.07,"TL",0.321,"sustained",3531,NA,"Average of 4 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+145,253,239,3531,29,"TL",1.38,"TL",0.4002,"sustained",3531,NA,"Average of 5 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+146,253,239,3531,28,"TL",1.69,"TL",0.4732,"sustained",3531,NA,"Average of 5 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+147,253,239,3531,29,"TL",1.71,"TL",0.4959,"sustained",3531,NA,"Average of 5 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+148,253,239,3531,30,"TL",1.74,"TL",0.522,"sustained",3531,NA,"Average of 4 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+149,253,239,3531,30,"TL",1.78,"TL",0.534,"sustained",3531,NA,"Average of 3 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+1,253,239,3531,28,"TL",2.36,"TL",0.6608,"sustained",3531,NA,"Average of 5 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+2,253,239,3531,29,"TL",2.4,"TL",0.696,"sustained",3531,NA,"Average of 5 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+3,253,239,3531,30,"TL",2.44,"TL",0.732,"sustained",3531,NA,"Average of 4 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+4,253,239,3531,30,"TL",2.49,"TL",0.747,"sustained",3531,NA,"Average of 4 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+5,253,239,3531,28,"TL",3.04,"TL",0.8512,"sustained",3531,NA,"Average of 5 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+6,253,239,3531,29,"TL",3.09,"TL",0.8961,"sustained",3531,NA,"Average of 3 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+7,253,239,3531,30,"TL",3.14,"TL",0.942,"sustained",3531,NA,"Average of 4 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+8,253,239,3531,30,"TL",3.2,"TL",0.96,"sustained",3531,NA,"Average of 4 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+9,253,239,3531,28,"TL",3.72,"TL",1.0416,"sustained",3531,NA,"Average of 5 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+10,253,239,3531,30,"TL",3.83,"TL",1.149,"sustained",3531,NA,"Average of 4 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+11,253,239,3531,30,"TL",3.92,"TL",1.176,"sustained",3531,NA,"Average of 4 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+12,253,239,3531,28,"TL",4.39,"TL",1.2292,"sustained",3531,NA,"Average of 5 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+13,253,239,3531,30,"TL",4.53,"TL",1.359,"sustained",3531,NA,"Average of 2 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+14,253,239,3531,28,"TL",5.07,"TL",1.4196,"sustained",3531,NA,"Average of 4 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+15,253,239,3531,30,"TL",5.2,"TL",1.56,"sustained",3531,NA,"Average of 2 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+16,253,239,3531,28,"TL",5.81,"TL",1.6268,"sustained",3531,NA,"Average of 4 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+17,253,239,3531,29,"TL",20.7,"TL",6.003,"sustained",3531,"questionable","Average of 5 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+18,253,239,3531,29,"TL",24.1,"TL",6.989,"sustained",3531,"questionable","Average of 5 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+19,253,239,3531,29,"TL",27.6,"TL",8.004,"sustained",3531,"questionable","Average of 5 fish.",22,1992-05-18,1,2000-09-20,NA,NA,0,0.9,NA
+20,254,240,308,64,"SL",0.96,"SL",0.6144,"sustained",689,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.92,NA
+23,257,243,308,8,"SL",3.65,"SL",0.292,"sustained",689,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.91,NA
+21,257,243,308,67,"SL",0.68,"SL",0.4556,"sustained",689,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.91,NA
+22,257,243,308,63,"SL",0.93,"SL",0.5859,"sustained",689,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.91,NA
+24,257,243,3518,6,"TL",1.7,"TL",0.102,"sustained",3521,NA,"At 0°C.",1,1992-05-15,1,2000-09-20,NA,NA,0,0.91,NA
+26,257,243,3518,6,"TL",5.1,"TL",0.306,"sustained",3521,NA,"At 20°C.",1,1992-05-15,1,2000-09-20,NA,NA,0,0.91,NA
+25,257,243,3518,51,"TL",3,"TL",1.53,"sustained",3519,NA,"Average for 15 specimens.",1,1992-05-15,1,2000-09-20,NA,NA,0,0.91,NA
+27,257,243,3531,18,"TL",2.9,"TL",0.522,"sustained",2361,NA,"At 15°C. Critical speed in increasing velocity test.",1,1992-05-15,1,2000-09-20,NA,NA,0,0.91,NA
+29,257,243,3531,18,"TL",4,"TL",0.72,"sustained",2361,NA,"At 15°C. Critical speed in increasing velocity test.",1,1992-05-15,1,2000-09-20,NA,NA,0,0.91,NA
+30,257,243,3531,17,"TL",4.3,"TL",0.731,"sustained",2361,NA,"At 15°C. Critical speed in increasing velocity test.",1,1992-05-15,1,2000-09-20,NA,NA,0,0.91,NA
+28,257,243,3531,30,"TL",3.2,"TL",0.96,"sustained",2275,NA,"At 15°C. Critical speed in increasing velocity test.",1,1992-05-15,1,2000-09-20,NA,NA,0,0.91,NA
+151,258,244,308,19,"SL",3.01,"SL",0.5719,"burst",495,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+150,258,244,308,31,"SL",2.25,"SL",0.6975,"burst",495,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+152,259,245,3518,5,"TL",1.1,"TL",0.055,"sustained",3521,NA,"At 0°C.",1,1992-05-15,1,2000-09-20,NA,NA,0,0.897,NA
+154,259,245,3518,5,"TL",5.5,"TL",0.275,"sustained",3521,NA,"At 20°C.",1,1992-05-15,1,2000-09-20,NA,NA,0,0.897,NA
+153,259,245,3518,56,"TL",3.4,"TL",1.904,"sustained",3519,NA,"Average for 9 specimens.",1,1992-05-15,1,2000-09-20,NA,NA,0,0.897,NA
+155,259,245,3531,56,"TL",3.37,"TL",1.8872,"sustained",3535,NA,"Migrating fish.",1,1992-05-15,1,2000-09-20,NA,NA,0,0.897,NA
+157,272,258,308,20,"SL",7.37,"SL",1.474,"burst",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.87,NA
+158,272,258,308,16,"SL",13,"SL",2.08,"burst",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.87,NA
+156,272,258,308,44,"SL",6.5,"SL",2.86,"burst",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.87,NA
+159,272,258,3499,37,"TL",3.9,"TL",1.443,"sustained",3511,NA,"37.8 cm, fish at 148 cm/sec.",22,1992-05-15,1,2000-09-20,NA,NA,0,0.87,NA
+160,272,258,3499,20,"TL",7.5,"TL",1.5,"burst",3526,NA,NA,22,1992-05-15,1,2000-09-20,NA,NA,0,0.87,NA
+161,272,258,3499,16,"TL",12.7,"TL",2.032,"burst",3526,NA,NA,22,1992-05-15,1,2000-09-20,NA,NA,0,0.87,NA
+162,282,268,308,24,"SL",4.09,"SL",0.9816,"burst",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+163,285,271,308,7,"SL",9.6,"SL",0.672,"burst",494,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.832,NA
+164,285,271,308,12,"SL",12.8,"SL",1.536,"burst",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.832,NA
+165,285,271,308,13,"SL",13,"SL",1.69,"burst",494,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.832,NA
+166,285,271,3499,4,"TL",7,"TL",0.28,"burst",NA,NA,"Maximum speed sustained for 3-4 sec. Data read from a graph.",1,1992-05-14,NA,1994-09-28,NA,NA,0,0.832,NA
+167,285,271,3499,9,"TL",6.66667,"TL",0.6,"burst",NA,NA,"Maximum speed sustained for 3-4 sec. Data read from a graph.",1,1992-05-14,NA,1994-09-28,NA,NA,0,0.832,NA
+168,285,271,3499,7,"TL",9.57143,"TL",0.67,"burst",NA,NA,"Maximum speed sustained for 3-4 sec. Data read from a graph.",1,1992-05-14,NA,1994-09-28,NA,NA,0,0.832,NA
+169,285,271,3499,22,"TL",3.63636,"TL",0.8,"burst",NA,NA,"Maximum speed sustained for 3-4 sec. Data read from a graph.",1,1992-05-14,NA,1994-09-28,NA,NA,0,0.832,NA
+170,285,271,3499,15,"TL",5.8,"TL",0.87,"burst",NA,NA,"Maximum speed sustained for 3-4 sec. Data read from a graph.",1,1992-05-14,NA,1994-09-28,NA,NA,0,0.832,NA
+171,285,271,3518,6,"TL",7,"TL",0.42,"sustained",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.832,NA
+172,285,271,3518,13,"TL",3.84615,"TL",0.5,"other",NA,NA,"For 20 sec.",1,1992-05-15,NA,1994-09-28,NA,NA,0,0.832,NA
+173,285,271,3518,13,"TL",4.61538,"TL",0.6,"other",NA,NA,"For 15 sec.",1,1992-05-15,NA,1994-09-28,NA,NA,0,0.832,NA
+174,285,271,3518,9,"TL",6.88889,"TL",0.62,"sustained",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.832,NA
+175,285,271,3518,11,"TL",5.72727,"TL",0.63,"sustained",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.832,NA
+176,285,271,3518,9,"TL",7.77778,"TL",0.7,"sustained",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.832,NA
+177,285,271,3518,6,"TL",12.5,"TL",0.75,"burst",NA,NA,"The same speed is also reached at 16 TL.",1,1992-05-15,2,1994-09-29,NA,NA,0,0.832,NA
+178,285,271,3518,14,"TL",5.71429,"TL",0.8,"sustained",NA,NA,"Same speed reached at 21.3 TL.",1,1992-05-15,2,1994-09-29,NA,NA,0,0.832,NA
+179,285,271,3518,9,"TL",11.66667,"TL",1.05,"burst",NA,NA,"Same speed also reached at 11.8 TL.",1,1992-05-15,2,1994-09-29,NA,NA,0,0.832,NA
+180,285,271,3518,13,"TL",8.46154,"TL",1.1,"burst",NA,NA,"For 5 sec.",1,1992-05-15,NA,1994-09-28,NA,NA,0,0.832,NA
+181,285,271,3518,9,"TL",12.77778,"TL",1.15,"burst",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.832,NA
+182,285,271,3518,13,"TL",10,"TL",1.3,"burst",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.832,NA
+183,285,271,3518,14,"TL",10,"TL",1.4,"burst",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.832,NA
+184,285,271,3518,16,"TL",11.875,"TL",1.9,"burst",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.832,NA
+185,285,271,3518,13,"TL",15.38462,"TL",2,"burst",NA,NA,"For 1 sec. The same speed also reached at 21.3 TL.",1,1992-05-15,2,1994-09-29,NA,NA,0,0.832,NA
+186,367,353,308,22,"SL",1.88,"SL",0.4136,"sustained",686,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+187,372,358,308,24,"SL",5.4,"SL",1.296,"burst",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.852,NA
+188,372,358,3499,18,NA,3.6,"TL",0.66,"sustained",3511,NA,"18.4 g, fish at 66 cm/sec.",22,1992-05-15,1,1994-09-28,NA,NA,0,0.852,NA
+189,378,364,308,22,"SL",1.83,"SL",0.4026,"sustained",686,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+190,382,368,308,6,"SL",14.2,"SL",0.852,"burst",3600,NA,"Length converted to SL in Ref. 308.",1,1992-01-30,3,2003-03-28,NA,NA,NA,NA,NA
+196,382,368,3600,4,"TL",15.3,"TL",0.612,"sustained",3600,NA,"Data read from a graph. Temp. range: 17-19.5°C.",1,1992-05-21,1,2000-09-20,NA,NA,NA,NA,NA
+194,382,368,3600,6,"TL",14.2,"TL",0.852,"sustained",3600,NA,"Data read from a graph. Temp. range: 17-19°C.",1,1992-05-21,1,2000-09-20,NA,NA,NA,NA,NA
+195,382,368,3600,9,"TL",14.8,"TL",1.332,"sustained",3600,NA,"Data read from a graph. Temp. range: 17-19.5°C.",1,1992-05-21,1,2000-09-20,NA,NA,NA,NA,NA
+193,382,368,3600,16,"TL",11.2,"TL",1.792,"sustained",3600,NA,"Data read from a graph. Temp. range: 17-19.5°C.",1,1992-05-21,1,2000-09-20,NA,NA,NA,NA,NA
+192,382,368,3600,22,"TL",9.2,"TL",2.024,"sustained",3600,NA,"Data read from a graph. Temp. range: 17-19.5°C.",1,1992-05-21,1,2000-09-20,NA,NA,NA,NA,NA
+191,382,368,3600,27,"TL",8.05,"TL",2.1735,"sustained",3600,NA,"Data read from a graph. Temp. range: 17-19.5°C.",1,1992-05-21,1,2000-09-20,NA,NA,NA,NA,NA
+197,432,418,3499,29,"TL",3.8,"TL",1.13,"sustained",3511,NA,"29.5 g, fish at 113 cm/sec.",22,1992-05-15,1,1994-09-28,NA,NA,NA,NA,NA
+198,443,429,308,5,"SL",14,"SL",0.7,"burst",46359,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,3,2003-03-28,NA,NA,NA,NA,NA
+199,767,751,247,NA,NA,NA,NA,0.88,"sustained",247,NA,"Sonic tags on a large shark showed 190 km in 2.5 d, i.e. 3.2 kmh",1,1994-02-11,NA,1994-09-28,NA,NA,NA,NA,NA
+200,801,785,308,21,"SL",20.5,"SL",4.305,"burst",46359,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,3,2003-03-28,NA,NA,NA,NA,NA
+201,889,873,308,173,"SL",0.75,"SL",1.2975,"sustained",492,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+202,889,873,308,152,"SL",3.46,"SL",5.2592,"burst",494,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+203,893,877,308,75,"SL",1.03,"SL",0.7725,"sustained",492,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+204,913,897,308,177,"SL",0.59,"SL",1.0443,"sustained",492,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+205,913,897,308,184,"SL",1.31,"SL",2.4104,"burst",494,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+206,914,898,4680,NA,NA,999,NA,2,NA,NA,NA,"Check Ref. 4682 for mode of swimming.",3,1992-09-02,NA,1994-09-28,NA,NA,NA,NA,NA
+207,931,915,308,70,"SL",1.1,"SL",0.77,"sustained",492,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+208,1251,1235,308,17,"SL",22.3,"SL",3.791,"burst",688,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+209,1251,1235,684,129,"TL",9.4,"TL",12.126,"burst",3550,NA,NA,1,1992-05-16,1,2000-09-20,NA,NA,NA,NA,NA
+210,1295,1278,308,16,"SL",17.5,"SL",2.8,"burst",46348,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,3,2003-03-28,NA,NA,NA,NA,NA
+211,1360,1342,173,NA,NA,NA,NA,0.34,"sustained",173,NA,"Given as 30 km in 24 hours.",1,1992-05-18,NA,1998-04-14,NA,NA,0,NA,NA
+212,1361,1343,308,37,"SL",3.4,"SL",1.258,"sustained",500,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+214,1361,1343,308,21,"SL",9.57,"SL",2.0097,"burst",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+213,1361,1343,308,43,"SL",6.96,"SL",2.9928,"burst",499,NA,"Lengths transformed to SL in Ref. 308. Data from He (unpubl.).",1,1992-01-30,3,2003-03-28,NA,NA,NA,NA,NA
+215,1363,1345,308,7,"SL",3.83,"SL",0.2681,"burst",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+216,1373,1355,308,10,"SL",7.15,"SL",0.715,"burst",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+217,1375,1357,308,12,"SL",5.21,"SL",0.6252,"sustained",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+218,1375,1357,308,7,"SL",18.3,"SL",1.281,"burst",46354,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,3,2003-03-28,NA,NA,NA,NA,NA
+219,1382,1364,3499,22,"TL",1.8,"TL",0.4,"sustained",3511,NA,"22.4 g, fish at 40 cm/sec.",22,1992-05-15,1,1994-09-28,NA,NA,0,0.853,NA
+220,1385,1367,3499,16,"TL",3.3,"TL",0.55,"sustained",3511,NA,"16.5 g, fish at 55 cm/sec.",22,1992-05-15,1,1994-09-28,NA,NA,0,0.91,NA
+221,1388,1370,3499,19,"TL",1.6,"TL",0.3,"sustained",3511,NA,"19.7 cm, fish at 30 cm/sec.",22,1992-05-15,NA,1994-09-28,NA,NA,0,0.82,NA
+222,1400,1381,308,42,"SL",4.36,"SL",1.8312,"burst",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+223,1400,1381,308,9,"SL",27.3,"SL",2.457,"burst",46354,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,3,2003-03-28,NA,NA,NA,NA,NA
+224,1643,1450,308,13,"SL",12.5,"SL",1.625,"burst",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.818,NA
+225,1643,1450,3499,11,"TL",5.2,"TL",0.59,"sustained",3510,NA,"6 g., fish at 59 cm/sec.",22,1992-05-15,NA,1992-05-16,NA,NA,0,0.818,NA
+226,1643,1450,3499,13,"TL",12.6,"TL",1.638,"burst",3526,NA,NA,22,1992-05-15,1,2000-09-20,NA,NA,0,0.818,NA
+227,1776,1583,308,28,"SL",16.9,"SL",4.732,"burst",46356,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,3,2003-03-28,NA,NA,NA,NA,NA
+228,1785,1592,308,25,"SL",0.51,"SL",0.1275,"sustained",NA,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+230,1884,6,308,67,"SL",0.84,"SL",0.5628,"sustained",NA,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+231,2286,90,308,700,"SL",0.11,"SL",0.77,"sustained",310,NA,"Length converted to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+232,2286,90,308,700,"SL",0.25,"SL",1.75,"burst",309,"questionable","Length converted to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+267,2615,2420,46162,4.9,"TL",4,"TL",0.196,"sustained",46162,NA,NA,3,2003-04-26,3,2004-11-26,NA,NA,0,0,NA
+233,2726,2530,684,37,"TL",3.2,"TL",1.184,"burst",684,NA,NA,1,1992-05-16,1,2000-09-20,NA,NA,0,0.98,NA
+234,2726,2530,3518,41,"TL",0.57,"TL",0.2337,"sustained",NA,NA,"At 2°C.",1,1992-05-15,1,2000-09-20,NA,NA,0,0.98,NA
+235,2726,2530,3518,41,"TL",0.89,"TL",0.3649,"sustained",NA,NA,"At 15°C.",1,1992-05-15,1,2000-09-20,NA,NA,0,0.98,NA
+236,2728,2532,308,193,"SL",0.39,"SL",0.7527,"sustained",492,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+237,2739,2543,308,79,"SL",0.71,"SL",0.5609,"sustained",492,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+248,2992,2796,35684,26,"TL",1.5,"TL",0.39,"sustained",NA,NA,"At 10 deg. Celsius.",1,2000-09-19,NA,2000-09-19,NA,NA,0,0,NA
+249,2992,2796,35684,23.7,"TL",2.4,"TL",0.57,"sustained",NA,NA,"At 20 deg. Celsius.",1,2000-09-19,NA,2000-09-19,NA,NA,0,0,NA
+245,3001,2805,35684,28.5,"TL",1.65,"TL",0.47,"sustained",NA,NA,"At 10 deg. Celsius.",1,2000-09-19,NA,2000-09-19,NA,NA,0,0,NA
+247,3001,2805,35684,22.5,"TL",2.26,"TL",0.51,"sustained",NA,NA,"At 20 deg Celsius",1,2000-09-19,NA,2000-09-19,NA,NA,0,0,NA
+246,3001,2805,35684,24.4,"TL",2.336,"TL",0.57,"sustained",NA,NA,"At 15 deg. Celsius",1,2000-09-19,NA,2000-09-19,NA,NA,0,0,NA
+238,3134,2938,3499,3,"TL",4,"TL",0.12,"sustained",3522,NA,"The same speed also reached at 4.3 TL and 5.2 TL.",22,1992-05-15,1,2000-09-20,NA,NA,0,0.847,NA
+240,3134,2938,3499,75,"TL",6.4,"TL",4.8,"burst",3512,NA,NA,22,1992-05-15,1,2000-09-20,NA,NA,0,0.847,NA
+239,3134,2938,3499,85,"TL",5.8,"TL",4.93,"burst",3512,NA,NA,22,1992-05-15,1,2000-09-20,NA,NA,0,0.847,NA
+241,3134,2938,3499,75,"TL",8,"TL",6,"burst",3512,NA,NA,22,1992-05-15,1,2000-09-20,NA,NA,0,0.847,NA
+242,3134,2938,3499,80,"TL",8.4,"TL",6.72,"burst",3512,NA,NA,22,1992-05-15,1,2000-09-20,NA,NA,0,0.847,NA
+250,3134,2938,35684,22.9,"TL",1.75,"TL",0.4,"sustained",NA,NA,"At 10 deg. Celsius.",1,2000-09-19,NA,2000-09-19,NA,NA,0,0,NA
+252,3134,2938,35684,23.3,"TL",2.15,"TL",0.5,"sustained",NA,NA,"At 20 deg. Celsius.",1,2000-09-19,NA,2000-09-19,NA,NA,0,0,NA
+251,3134,2938,35684,24.7,"TL",2.3,"TL",0.57,"sustained",NA,NA,"At 15 deg. Celsius.",1,2000-09-19,NA,2000-09-19,NA,NA,0,0,NA
+243,3147,2951,308,22,"SL",5.82,"SL",1.2804,"burst",494,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.816,NA
+244,3147,2951,308,22,"SL",5.89,"SL",1.2958,"burst",494,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.816,NA
+31,3147,2951,308,24,"SL",7.26,"SL",1.7424,"burst",684,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,0,0.816,NA
+32,3147,2951,3499,22,"TL",5.9,"TL",1,"burst",3526,NA,NA,22,1992-05-15,NA,1992-05-16,NA,NA,0,0.816,NA
+33,3147,2951,3499,19,"TL",6,"TL",1.14,"burst",3511,NA,"18.8 g, fish at 114 cm/sec.",22,1992-05-15,1,1994-09-28,NA,NA,0,0.816,NA
+253,3170,2974,35684,19.1,"TL",2.46,"TL",0.47,"sustained",NA,NA,"At 10 deg. Celsius.",1,2000-09-19,NA,2000-09-19,NA,NA,0,0,NA
+254,3170,2974,35684,20,"TL",2.4,"TL",0.48,"sustained",NA,NA,"At 15 deg. Celsius.",1,2000-09-19,NA,2000-09-19,NA,NA,0,0,NA
+255,3170,2974,35684,20.9,"TL",2.44,"TL",0.51,"sustained",NA,NA,"At 20 deg. Celsius.",1,2000-09-19,NA,2000-09-19,NA,NA,0,0,NA
+34,3581,3385,3499,21,"TL",4.1,"TL",0.88,"sustained",3511,NA,"21.3 cm, fish at 88 cm/sec.",22,1992-05-15,NA,1994-09-28,NA,NA,0,0.866,NA
+35,3822,3626,308,9,"SL",4.94,"SL",0.4446,"sustained",554,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+36,3822,3626,308,9,"SL",11.6,"SL",1.044,"burst",554,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+37,3824,3628,308,14,"SL",3.49,"SL",0.4886,"sustained",554,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+38,3824,3628,308,14,"SL",7.51,"SL",1.0514,"burst",554,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+39,3827,3631,308,13,"SL",3.06,"SL",0.3978,"sustained",554,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+40,3829,3633,308,13,"SL",3.04,"SL",0.3952,"sustained",554,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+41,3834,3638,308,15,"SL",3.09,"SL",0.4635,"sustained",554,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+42,3842,3646,308,8,"SL",6,"SL",0.48,"sustained",554,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+43,3842,3646,308,8,"SL",11,"SL",0.88,"burst",554,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+44,4179,3983,308,15,"SL",3.64,"SL",0.546,"sustained",554,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+45,4179,3983,308,15,"SL",7.02,"SL",1.053,"burst",554,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+46,4198,4002,308,19,"SL",2.67,"SL",0.5073,"sustained",554,NA,"Lengths were transformed to SL in Ref. 308.",1,1992-01-30,1,2000-09-20,NA,NA,NA,NA,NA
+47,4769,4583,3499,26,"TL",2.3,"TL",0.61,"sustained",3511,NA,"26.0 g, fish at 61 cm/sec.",22,1992-05-15,1,1994-09-28,NA,NA,NA,NA,NA
+281,4789,4602,55930,28,"TL",2.75,"TL",0.77,"sustained",NA,NA,"Individuals of 26-30 cm swam against a current of 0.6-0.94 m/s.",1,2005-12-06,NA,2005-12-06,NA,NA,NA,NA,NA
+282,4789,4602,55930,49,"TL",2.6,"TL",1.28,"sustained",55930,NA,"Individuals of 40-58 cm had recorded speeds of 1.25-1.31 m/s.",1,2005-12-06,NA,2005-12-06,NA,NA,NA,NA,NA
+286,4849,4654,49558,0.32,"TL",9.5,"TL",0,"other",49558,NA,"Relative swimming speed at hatching.  s.e. 2.6, n=3",2,2014-05-09,NA,2014-05-09,NA,NA,NA,NA,NA
+48,4879,4662,3499,5,"TL",17.2,"TL",0.86,"burst",NA,NA,"Maximum speed sustained for 3-4 sec. Data read from a graph.",1,1992-05-14,NA,1994-09-29,NA,NA,0,0.835,NA
+49,4879,4662,3499,9,"TL",18.11111,"TL",1.63,"burst",NA,NA,"Maximum speed sustained for 3-4 sec. Data read from a graph.",1,1992-05-14,NA,1994-09-28,NA,NA,0,0.835,NA
+52,4879,4662,3499,18,"TL",9.2,"TL",1.656,"burst",3526,NA,NA,22,1992-05-15,1,2000-09-20,NA,NA,0,0.835,NA
+50,4879,4662,3499,17,"TL",12.70588,"TL",2.16,"burst",NA,NA,"Maximum speed sustained for 3-4 sec. Data read from a graph.",1,1992-05-14,NA,1994-09-28,NA,NA,0,0.835,NA
+51,4879,4662,3499,24,"TL",9.16667,"TL",2.2,"burst",NA,NA,"Maximum speed sustained for 3-4 sec. Data read from a graph.",1,1992-05-14,NA,1994-09-29,NA,NA,0,0.835,NA
+53,4879,4662,3518,10,"TL",3,"TL",0.3,"sustained",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.835,NA
+54,4879,4662,3518,10,"TL",5,"TL",0.5,"sustained",NA,NA,"Same speed also reached at 10.4 TL.",1,1992-05-15,2,1994-09-29,NA,NA,0,0.835,NA
+55,4879,4662,3518,14,"TL",4.42857,"TL",0.62,"sustained",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.835,NA
+56,4879,4662,3518,16,"TL",4.5625,"TL",0.73,"sustained",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.835,NA
+57,4879,4662,3518,15,"TL",5.33333,"TL",0.8,"sustained",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.835,NA
+66,4879,4662,3518,20,"TL",4.05,"TL",0.81,"sustained",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.835,NA
+58,4879,4662,3518,21,"TL",4.28571,"TL",0.9,"sustained",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.835,NA
+59,4879,4662,3518,10,"TL",11.4,"TL",1.14,"burst",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.835,NA
+60,4879,4662,3518,10,"TL",13,"TL",1.3,"burst",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.835,NA
+61,4879,4662,3518,14,"TL",11.42857,"TL",1.6,"burst",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.835,NA
+62,4879,4662,3518,15,"TL",12,"TL",1.8,"burst",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.835,NA
+63,4879,4662,3518,16,"TL",12.5,"TL",2,"burst",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.835,NA
+64,4879,4662,3518,20,"TL",11.15,"TL",2.23,"burst",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.835,NA
+65,4879,4662,3518,21,"TL",11.42857,"TL",2.4,"burst",NA,NA,NA,1,1992-05-15,NA,1994-09-28,NA,NA,0,0.835,NA
+67,4954,4730,3499,5,"TL",10,"TL",0.5,"burst",3510,NA,"1 g, fish at 50 cm/sec.",22,1992-05-15,1,1994-09-28,NA,NA,0,0.875,NA
+256,5006,4782,41592,2.2,"BL",15.7,"BL",0.345,"sustained",NA,NA,NA,1,2002-05-03,3,2002-05-03,NA,NA,0,0,NA
+258,5006,4782,41592,2.7,"BL",20.3,"BL",0.549,"sustained",NA,NA,NA,1,2002-05-03,3,2002-05-03,NA,NA,0,0,NA
+260,5006,4782,41592,3.9,"BL",16.8,"BL",0.657,"sustained",NA,NA,NA,1,2002-05-03,3,2002-05-03,NA,NA,0,0,NA
+261,5006,4782,41592,5.8,"BL",12.9,"BL",0.747,"sustained",NA,NA,NA,1,2002-05-03,3,2002-05-03,NA,NA,0,0,NA
+68,5024,4796,308,57,"SL",1.54,"SL",0.8778,"sustained",688,NA,"Lengths were transformed to SL in Ref. 308.",32,1997-08-05,1,2000-09-20,NA,NA,0,0,NA
+69,5024,4796,308,57,"SL",6.49,"SL",3.6993,"burst",688,NA,"Lengths were transformed to SL in Ref. 308.",32,1997-08-05,1,2000-09-20,NA,NA,0,0,NA
+285,6008,5715,49558,0.29,"TL",17,"TL",0,"other",NA,NA,"Relative swimming speed at hatching.  s.e. 2.5, n=3",2,2014-05-09,NA,2014-05-09,NA,NA,NA,NA,NA
+287,6072,5778,49558,0.48,"TL",12.4,"TL",0,"other",49558,NA,"Relative swimming speed at hatching.  s.e. 1.1, n=3.",2,2014-05-09,NA,2014-05-09,NA,NA,NA,NA,NA
+273,6218,5909,47761,0,NA,NA,NA,0.264,"sustained",NA,NA,"Speed given as 0.95 km/h.",1,2003-08-23,NA,2003-08-23,NA,NA,0,0,NA
+277,7883,7579,53914,NA,NA,NA,NA,0.275,"other",53914,NA,"Prolonged swimming velocity: 0.19-0.36 m/s.",3,2005-04-12,NA,2005-04-12,NA,NA,NA,NA,NA
+278,7883,7579,53914,NA,NA,NA,NA,0.91,"burst",53914,NA,"Burst velocity: 0.47-1.35 m/s.",3,2005-04-12,NA,2005-04-12,NA,NA,NA,NA,NA
+275,10428,10105,51963,3.7,"SL",6.2,"SL",0.23,"sustained",51963,NA,NA,3,2004-08-20,NA,2004-08-20,NA,NA,0,0,NA
+268,15528,17291,46774,12.2,"BL",2,"BL",0.244,"sustained",46774,NA,NA,3,2003-05-08,NA,2003-05-08,NA,NA,0,0,NA
+271,15528,17291,46774,12,"BL",4,"BL",0.48,"sustained",46774,NA,NA,3,2003-05-08,NA,2003-05-08,NA,NA,0,0,NA
