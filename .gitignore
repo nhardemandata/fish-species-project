@@ -64,9 +64,6 @@ rsconnect/
 
 # Data files
 /data/raw/*
-*.csv
-*.tsv
-*.xlsx
 
 # Tableau files
 *.twb~
