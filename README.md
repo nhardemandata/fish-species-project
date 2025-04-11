@@ -8,7 +8,7 @@ Welcome to the **Fish Species Analysis** Project:
 
 ## 🔍 Overview
 
-Ecological and biological data, courtesy of FishBase is leveraged to analyze species traits (habitat, weight, length, etc.) to reveal patterns in morphology, conservation status, and much more!
+Ecological and biological data, courtesy of FishBase, is leveraged to analyze species traits (habitat, weight, length, etc.) to reveal patterns in morphology, conservation status, and much more!
 
 ---
 
