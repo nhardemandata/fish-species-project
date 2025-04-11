@@ -1,2 +1,2 @@
 # fish-species-project
- Study of Fish Species
+ Exploration of Fish Species as recorded in FishBase
