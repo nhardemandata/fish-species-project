@@ -15,9 +15,9 @@ Ecological and biological data, courtesy of FishBase is leveraged to analyze spe
 ## 💻 Tech Stack
 
 - **R**: Data extraction via `rfishbase`, data cleaning (`dplyr`, `tidyr`), visualizations (`ggplot2`), modeling (`lm`)
-- **Python**: Data analysis (`pandas`), exploratory charts (`matplotlib`, `seaborn`), cross-validation -- IN-PROCESS
-- **SQL**: Structured relational schema for cleaned data (PostgreSQL / SQLite compatible) -- IN-PROCESS
-- **Tableau**: Interactive dashboard for trait filtering and comparison -- IN-PROCESS
+- **Python**: Data analysis (`pandas`), exploratory charts (`matplotlib`, `seaborn`), cross-validation -- IN-PROGRESS
+- **SQL**: Structured relational schema for cleaned data (PostgreSQL / SQLite compatible) -- IN-PROGRESS
+- **Tableau**: Interactive dashboard for trait filtering and comparison -- IN-PROGRESS
 
 ---
 
