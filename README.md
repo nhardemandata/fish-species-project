@@ -35,4 +35,14 @@ Ecological and biological data, courtesy of FishBase, is leveraged to analyze sp
 
 This [CSV summary](data/view_length_summary.csv) compares actual vs predicted fish lengths, including model error and species information.
 
+#### ➡️ Here are the top 5 rows of the view:
+
+|   actual_length |   predicted_length |   error | Genus             | Species                    |
+|-----------------|--------------------|---------|-------------------|----------------------------|
+|            3.08 |            8.22831 |    5.15 | Aapticheilichthys | Aapticheilichthys websteri |
+|          130    |          157.597   |   27.6  | Aaptosyax         | Aaptosyax grypus           |
+|           11.5  |            8.22831 |   -3.27 | Abactochromis     | Abactochromis labrosus     |
+|           32.5  |           42.2217  |    9.72 | Abalistes         | Abalistes filamentosus     |
+|           60    |           73.3065  |   13.31 | Abalistes         | Abalistes stellatus        |
+
 
