@@ -23,4 +23,7 @@ Ecological and biological data, courtesy of FishBase, is leveraged to analyze sp
 
 ## 📷 Sample Visualization
 
-COMING SOON!
+### 📊 Fish Weight by Habitat
+
+![Fish Weight by Habitat Boxplot](data/images/boxplot_fish_weight_by_habitat.png)
+
