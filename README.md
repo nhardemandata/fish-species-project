@@ -27,3 +27,12 @@ Ecological and biological data, courtesy of FishBase, is leveraged to analyze sp
 
 ![Fish Weight by Habitat Boxplot](data/images/boxplot_fish_weight_by_habitat.png)
 
+---
+
+## 👀 Sample SQL View
+
+### 🔍 Model Prediction Summary View
+
+This [CSV summary](data/view_length_summary.csv) compares actual vs predicted fish lengths, including model error and species information.
+
+
