@@ -16,7 +16,7 @@ Ecological and biological data, courtesy of FishBase, is leveraged to analyze sp
 
 - **R**: Data extraction via `rfishbase`, data cleaning (`dplyr`, `tidyr`), visualizations (`ggplot2`), modeling (`lm`)
 - **Python**: Data analysis (`pandas`), exploratory charts (`matplotlib`, `seaborn`), cross-validation -- IN PROGRESS
-- **SQL**: Structured relational schema for cleaned data (PostgreSQL / SQLite compatible) -- IN PROGRESS
+- **SQL**: Structured relational schema for cleaned data (PostgreSQL / SQLite compatible)
 - **Tableau**: Interactive dashboard for trait filtering and comparison -- IN PROGRESS
 
 ---
