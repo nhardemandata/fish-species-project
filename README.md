@@ -22,7 +22,7 @@ Ecological and biological data, courtesy of FishBase, is leveraged to analyze sp
 - **Relational Schema**: Structured and populated a SQLite database (`fish_species_project.db`).
 - **Data Modeling**: Formatted clean trait tables (`fish_species_traits`) and created structured views joining actual traits, predictions, and model residuals.
 
-### 3. **Python & Machine Learning (`python-analysis/`)**
+### 3. **Python & Machine Learning (`python_analysis/`)**
 - **Exploratory Data Analysis**: Deep-dive analysis with `pandas`, `matplotlib`, `seaborn`, and interactive `plotly` charts.
 - **Statistical Modeling**: Evaluated feature coefficients and multicollinearity using Ordinary Least Squares (`statsmodels`).
 - **Machine Learning**: Built Linear Regression models with 5-Fold Cross-Validation, reporting evaluation metrics ($R^2 = 0.625$, $\text{MAE} = 11.07$, $\text{RMSE} = 35.02$).
@@ -34,9 +34,16 @@ Ecological and biological data, courtesy of FishBase, is leveraged to analyze sp
 
 ---
 
-## 📊 Sample Visualizations & Views
+## 📷 Sample Visualization
 
-### 👀 Model Prediction Summary View
+### 📊 Fish Weight by Habitat
+![Fish Weight by Habitat](path/to/your/image.png)
+
+---
+
+## 👀 Sample SQL View
+
+### 🔍 Model Prediction Summary View
 
 This CSV summary compares actual vs. predicted fish lengths, including model error and taxonomic information:
 
