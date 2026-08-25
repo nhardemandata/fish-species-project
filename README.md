@@ -63,3 +63,7 @@ This CSV summary compares actual vs. predicted fish lengths, including model err
    ```bash
    cd python
    streamlit run app.py
+
+---
+## 🎨 Tableau Dashboard
+[Live Tableau Dashboard](https://public.tableau.com/app/profile/nolan.hardeman/viz/fish_species_dashboard/FishTraitsMLInsights?publish=yes)
