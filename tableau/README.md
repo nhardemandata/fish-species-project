@@ -20,3 +20,6 @@ This directory contains the cleaned dataset (`tableau_fish_traits.csv`) generate
 
 ## Data Source
 - Input file: `tableau_fish_traits.csv` (96,276 records)
+
+## Tableau Dashboard
+[Live Tableau Dashboard](https://public.tableau.com/app/profile/nolan.hardeman/viz/fish_species_dashboard/FishTraitsMLInsights?publish=yes)
