@@ -12,7 +12,7 @@ Ecological and biological data, courtesy of FishBase, is leveraged to analyze sp
 
 ## 💻 Tech Stack & Module Workflow
 
-### 1. **R (`r/`)**
+### 1. **R (`r_scripts/`)**
 - **Data Ingestion**: Extracted raw species traits via the `rfishbase` API package.
 - **Wrangling & Cleaning**: Applied `dplyr`, `tidyr`, and `magrittr` workflows for missing value imputation and feature engineering.
 - **Exploratory Graphics**: Built initial diagnostic visualizations using `ggplot2`.
@@ -22,7 +22,7 @@ Ecological and biological data, courtesy of FishBase, is leveraged to analyze sp
 - **Relational Schema**: Structured and populated a SQLite database (`fish_species_project.db`).
 - **Data Modeling**: Formatted clean trait tables (`fish_species_traits`) and created structured views joining actual traits, predictions, and model residuals.
 
-### 3. **Python & Machine Learning (`python/`)**
+### 3. **Python & Machine Learning (`python-analysis/`)**
 - **Exploratory Data Analysis**: Deep-dive analysis with `pandas`, `matplotlib`, `seaborn`, and interactive `plotly` charts.
 - **Statistical Modeling**: Evaluated feature coefficients and multicollinearity using Ordinary Least Squares (`statsmodels`).
 - **Machine Learning**: Built Linear Regression models with 5-Fold Cross-Validation, reporting evaluation metrics ($R^2 = 0.625$, $\text{MAE} = 11.07$, $\text{RMSE} = 35.02$).
